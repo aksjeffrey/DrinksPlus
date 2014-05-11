@@ -1,0 +1,23 @@
+name: Drinksplus
+version: 1
+main: com.weebly.aksjeffreydonation.Main
+author: AKS JEFFREY
+description: Have a drink!
+commands:
+    drink:
+        usage: /<command>
+        description: Have a drink!
+        
+permissions:
+
+    drink.lava:
+        description: Allows you to drink lava.
+        default: true
+        
+    drink.water:
+        description: Allows you to drink water.
+        default: true
+        
+    drink.milk:
+        description: Allows you to drink milk.
+        default: true
