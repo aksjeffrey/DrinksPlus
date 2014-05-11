@@ -1,0 +1,16 @@
+# Drinks + Config
+
+# Lava bucket:
+lava-effect: FIRE_RESISTANCE
+lava-duration: 1200
+lava-amplifier: 1
+
+# Water bucket:
+water-effect: WATER_BREATHING
+water-duration: 600
+water-amplifier: 1
+
+# Milk bucket:
+milk-effect: INCREASE_DAMAGE
+milk-duration: 2400
+milk-amplifier: 1
